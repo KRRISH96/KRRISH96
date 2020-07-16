@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently working on ReactJs, Ruby on Rails, JavaScript, HTML, CSS, and SASS.
 - 📫 How to reach me: [@sai_krrishhh](https://twitter.com/sai_krrishhh)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/his
